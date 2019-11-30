@@ -19,5 +19,5 @@ Vamos a hacer una prueba de referencias: [@Barquero2018; @Bartolome2018].
 Otra vez: [@Barquero2018; @Bartolome2018].
 
 
-Sólo un pequeño cambio.
+Sólo un pequeño cambio. Otro cambio.
 
